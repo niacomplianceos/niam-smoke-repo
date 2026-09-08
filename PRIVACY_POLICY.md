@@ -51,3 +51,9 @@ Questions about this policy: privacy@acme.example
 
 We utilize MongoDB to store and process your profile data. As part of our service operations, this data may be transferred to and processed in locations outside of India. We ensure that such transfers are conducted in compliance with the Digital Personal Data Protection Act, 2023, and that the data remains protected in accordance with the standards mandated by applicable law.
 <!-- /niam:gap:gap-b92429c154ee451fb5591c72b2b11280-niacomplianceos__niam-smoke-repo-profile_data-MongoDB -->
+
+
+<!-- niam:gap:gap-b92429c154ee451fb5591c72b2b11280-niacomplianceos__niam-smoke-repo-disclosure-address-Database -->
+### Third-Party Data Sharing
+We share your address information with our Database vendor. This sharing is necessary to facilitate the storage, management, and technical maintenance of your account information within our system. We ensure that this sharing is conducted in accordance with the provisions of the Digital Personal Data Protection Act, 2023.
+<!-- /niam:gap:gap-b92429c154ee451fb5591c72b2b11280-niacomplianceos__niam-smoke-repo-disclosure-address-Database -->
