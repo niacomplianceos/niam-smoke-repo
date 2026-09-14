@@ -57,3 +57,9 @@ We utilize MongoDB to store and process your profile data. As part of our servic
 ### Third-Party Data Sharing
 We share your address information with our Database vendor. This sharing is necessary to facilitate the storage, management, and technical maintenance of your account information within our system. We ensure that this sharing is conducted in accordance with the provisions of the Digital Personal Data Protection Act, 2023.
 <!-- /niam:gap:gap-b92429c154ee451fb5591c72b2b11280-niacomplianceos__niam-smoke-repo-disclosure-address-Database -->
+
+
+<!-- niam:gap:gap-840def53-ae8e-4a02-b1c7-933ec4e3fc45-niacomplianceos__niam-smoke-repo-disclosure-credit_card-Stripe -->
+### Third-Party Data Sharing
+We use Stripe as our payment processing partner. To facilitate the processing of payments, we share your credit card information with Stripe. This data is shared solely for the purpose of executing your transactions and managing payment-related services in a secure manner.
+<!-- /niam:gap:gap-840def53-ae8e-4a02-b1c7-933ec4e3fc45-niacomplianceos__niam-smoke-repo-disclosure-credit_card-Stripe -->
