@@ -57,3 +57,9 @@ We utilize MongoDB to store and process your profile data. As part of our servic
 ### Third-Party Data Sharing
 We share your address information with our Database vendor. This sharing is necessary to facilitate the storage, management, and technical maintenance of your account information within our system. We ensure that this sharing is conducted in accordance with the provisions of the Digital Personal Data Protection Act, 2023.
 <!-- /niam:gap:gap-b92429c154ee451fb5591c72b2b11280-niacomplianceos__niam-smoke-repo-disclosure-address-Database -->
+
+
+<!-- niam:gap:gap-840def53-ae8e-4a02-b1c7-933ec4e3fc45-niacomplianceos__niam-smoke-repo-disclosure-phone-Twilio -->
+### Third-Party Data Sharing
+We engage Twilio as a third-party service provider to facilitate communication services. To enable these services, we share your phone number with Twilio. This information is shared exclusively for the purpose of processing and delivering SMS or voice-based notifications and alerts related to your account activities. We ensure that this sharing is conducted in accordance with the Digital Personal Data Protection Act, 2023.
+<!-- /niam:gap:gap-840def53-ae8e-4a02-b1c7-933ec4e3fc45-niacomplianceos__niam-smoke-repo-disclosure-phone-Twilio -->
