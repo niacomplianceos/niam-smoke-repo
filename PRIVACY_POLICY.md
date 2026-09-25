@@ -59,7 +59,7 @@ We share your address information with our Database vendor. This sharing is nece
 <!-- /niam:gap:gap-b92429c154ee451fb5591c72b2b11280-niacomplianceos__niam-smoke-repo-disclosure-address-Database -->
 
 
-<!-- niam:gap:gap-840def53-ae8e-4a02-b1c7-933ec4e3fc45-niacomplianceos__niam-smoke-repo-disclosure-credit_card-Stripe -->
+<!-- niam:gap:gap-840def53-ae8e-4a02-b1c7-933ec4e3fc45-niacomplianceos__niam-smoke-repo-disclosure-phone-Twilio -->
 ### Third-Party Data Sharing
-We use Stripe as our payment processing partner. To facilitate the processing of payments, we share your credit card information with Stripe. This data is shared solely for the purpose of executing your transactions and managing payment-related services in a secure manner.
-<!-- /niam:gap:gap-840def53-ae8e-4a02-b1c7-933ec4e3fc45-niacomplianceos__niam-smoke-repo-disclosure-credit_card-Stripe -->
+We engage Twilio as a third-party service provider to facilitate communication services. To enable these services, we share your phone number with Twilio. This information is shared exclusively for the purpose of processing and delivering SMS or voice-based notifications and alerts related to your account activities. We ensure that this sharing is conducted in accordance with the Digital Personal Data Protection Act, 2023.
+<!-- /niam:gap:gap-840def53-ae8e-4a02-b1c7-933ec4e3fc45-niacomplianceos__niam-smoke-repo-disclosure-phone-Twilio -->
