@@ -63,3 +63,10 @@ We share your address information with our Database vendor. This sharing is nece
 ### Third-Party Data Sharing
 We engage Twilio as a third-party service provider to facilitate communication services. To enable these services, we share your phone number with Twilio. This information is shared exclusively for the purpose of processing and delivering SMS or voice-based notifications and alerts related to your account activities. We ensure that this sharing is conducted in accordance with the Digital Personal Data Protection Act, 2023.
 <!-- /niam:gap:gap-840def53-ae8e-4a02-b1c7-933ec4e3fc45-niacomplianceos__niam-smoke-repo-disclosure-phone-Twilio -->
+
+
+<!-- niam:gap:gap-a89fb3fd-de36-43de-8a8b-1ad382747498-niacomplianceos__niam-smoke-repo-disclosure-consent_or_age-none -->
+### Processing of Age and Consent Information
+
+We collect information regarding your age to ensure compliance with applicable laws, including the Digital Personal Data Protection Act, 2023. Specifically, we process age-related data to determine if you are a child (as defined by law) and to obtain or verify necessary parental or guardian consent where required. This data is collected solely to fulfill our legal obligations regarding the protection of children and to manage your consent preferences effectively. We do not engage in behavioral tracking or targeted advertising directed at children.
+<!-- /niam:gap:gap-a89fb3fd-de36-43de-8a8b-1ad382747498-niacomplianceos__niam-smoke-repo-disclosure-consent_or_age-none -->
