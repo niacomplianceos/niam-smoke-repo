@@ -70,3 +70,10 @@ We engage Twilio as a third-party service provider to facilitate communication s
 
 We collect information regarding your age to ensure compliance with applicable laws, including the Digital Personal Data Protection Act, 2023. Specifically, we process age-related data to determine if you are a child (as defined by law) and to obtain or verify necessary parental or guardian consent where required. This data is collected solely to fulfill our legal obligations regarding the protection of children and to manage your consent preferences effectively. We do not engage in behavioral tracking or targeted advertising directed at children.
 <!-- /niam:gap:gap-a89fb3fd-de36-43de-8a8b-1ad382747498-niacomplianceos__niam-smoke-repo-disclosure-consent_or_age-none -->
+
+
+<!-- niam:gap:gap-a89fb3fd-de36-43de-8a8b-1ad382747498-niacomplianceos__niam-smoke-repo-disclosure-ip_address-Mixpanel -->
+### Third-Party Data Sharing
+
+We share your IP address with our analytics partner, Mixpanel. We use Mixpanel to analyze how our services are used, which helps us improve performance, understand user trends, and optimize our digital offerings. Mixpanel processes this data on our behalf for the purpose of providing these analytical insights.
+<!-- /niam:gap:gap-a89fb3fd-de36-43de-8a8b-1ad382747498-niacomplianceos__niam-smoke-repo-disclosure-ip_address-Mixpanel -->
